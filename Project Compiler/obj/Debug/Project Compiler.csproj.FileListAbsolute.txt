@@ -1,0 +1,19 @@
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\bin\Debug\Project Compiler.exe.config
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\bin\Debug\Project Compiler.exe
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\bin\Debug\Project Compiler.pdb
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\obj\Debug\Project Compiler.csprojAssemblyReference.cache
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\obj\Debug\Project_Compiler.Form1.resources
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\obj\Debug\Project_Compiler.Properties.Resources.resources
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\obj\Debug\Project Compiler.csproj.GenerateResource.cache
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\obj\Debug\Project Compiler.exe
+C:\Users\noure\source\repos\Project Compiler\Project Compiler\obj\Debug\Project Compiler.pdb
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\bin\Debug\Project Compiler.exe.config
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\bin\Debug\Project Compiler.exe
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\bin\Debug\Project Compiler.pdb
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project Compiler.csprojAssemblyReference.cache
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project_Compiler.Form1.resources
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project_Compiler.Properties.Resources.resources
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project Compiler.csproj.GenerateResource.cache
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project Compiler.csproj.CoreCompileInputs.cache
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project Compiler.exe
+C:\Users\meko1\Downloads\Compressed\Project Compiler\Project Compiler\obj\Debug\Project Compiler.pdb
